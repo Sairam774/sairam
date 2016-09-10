@@ -1,0 +1,81 @@
+body
+{
+	background-color:#006400;
+	background-image: url("sai6.jpg");
+
+}
+
+div{
+	padding-left: 20px;
+}
+
+p{
+	color:darkgreen;
+
+}
+
+table,td
+{
+	color: red;
+border:1px solid black;
+
+}
+#p02{
+	text-align: arial;
+}
+h4{
+	color: red;
+}
+ol{
+	list-style-type: circle;
+}
+#abc a
+{
+	display: inline;
+	padding-left: 80px;
+ font-size: 200%;
+ color:#556B2F;
+}
+video
+{
+	float:right;
+}
+footer
+{
+	display: ruby-base;
+	text-align: center;
+	font-size:250%;
+
+}
+
+{
+	font-size: 200%;
+	padding-left: 200px;
+
+}
+#pqr
+{
+	padding-left: 200px;
+}
+#xyz
+{
+	padding-left:200px;
+	font-size: 200%;
+	font 
+}
+#lmn
+{
+	padding-left: 150px;
+}
+#sai
+{
+	float:right;
+}
+.ABC
+{
+float:right;
+}
+.XYZ
+{
+	float: right;
+}
